@@ -1,0 +1,4 @@
+model_type: savedmodel
+model_path: |-
+  sayakpaul/whitebox-cartoonizer
+input_dir: static/cartoonized_images
