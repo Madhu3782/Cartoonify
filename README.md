@@ -8,7 +8,7 @@ Cartoonify is a fun and beginner-friendly Python application that transforms you
 
 | Original Image | Cartoonified Image |
 |----------------|--------------------|
-| ![original](sample/original.jpg) | ![cartoon](sample/cartoon.jpg) |
+| ![original](sample/original.jpg) | ![cartoon]([sample/cartoon.jpg](https://github.com/Madhu3782/Cartoonify/blob/main/output_sketch_img.jpg)) |
 
 ---
 
